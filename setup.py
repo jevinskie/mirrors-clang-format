@@ -4,7 +4,7 @@ from setuptools import setup
 
 
 setup(
-    name='pre_commit_placeholder_package',
-    version='0.0.0',
+    name='mirrors-clang-format',
+    version='17.0.2',
     install_requires=['clang-format==17.0.2'],
 )
